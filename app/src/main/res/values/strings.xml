@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Room + Databinding</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_save">Save</string>
+    <string name="name">name</string>
+    <string name="empId">ID</string>
+</resources>
